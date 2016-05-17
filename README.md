@@ -1,3 +1,5 @@
+# This is a WIP. It is trivial to convert over. I'll remove this message sometime this week when this is ready to drop into a Titanium Project.
+
 # Visual Center.
 This is a tool that will find the visual center of your images.
 
